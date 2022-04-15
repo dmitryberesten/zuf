@@ -1,0 +1,25 @@
+@media screen and (max-width : 1240px){
+    .container {
+        width: 940px;
+    }
+    .featured-big-item {
+        width: 455px;
+    }
+    .item-big-img {
+        height: 300px;
+    }
+     .slider-titel {
+        margin-top: 50px;
+    }
+    
+    .item-small-img {
+        width: 293px;
+        height: 195px;
+    }
+    
+    .small-item {
+        width: 293px;
+
+    }
+  
+}
